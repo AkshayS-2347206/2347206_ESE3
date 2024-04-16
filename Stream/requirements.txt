@@ -5,5 +5,3 @@ matplotlib
 nltk
 string
 re
-pip list | grep streamlit
-
