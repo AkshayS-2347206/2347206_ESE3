@@ -1,7 +1,5 @@
 streamlit
-pillow
 pandas
 matplotlib
 nltk
-string
-re
+
