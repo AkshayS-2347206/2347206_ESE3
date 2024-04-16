@@ -1,7 +1,7 @@
-import streamlit
-import PIL
-import pandas
-import matplotlib.pyplot
-import nltk
-import string
-import re
+streamlit
+PIL
+pandas
+matplotlib.pyplot
+nltk
+string
+re
